@@ -1,3 +1,5 @@
+[![run at everware](https://img.shields.io/badge/run%20me-@everware-blue.svg?style=flat)](https://everware.rep.school.yandex.net/hub/oauth_login?repourl=https://github.com/yandexdataschool/MLAtGradDays2017.git)
+
 # MLAtGradDays2017
 Machine Learning session on Grad Days at Heidelberg university 2017
 
