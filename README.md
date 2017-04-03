@@ -4,7 +4,7 @@
 
 Machine Learning session on [Grad Days at Heidelberg University in 2017](http://gsfp.physi.uni-heidelberg.de/graddays/index.php?m=2&s=13)
 
-A four days seesion on machine learning organized by [Yandex Data School](https://yandexdataschool.com/) at Heidelberg university. Contains theory and practice!
+A four days session on machine learning organized by [Yandex Data School](https://yandexdataschool.com/) at Heidelberg university. Contains theory and practice!
 
 ## Main topics:
 
@@ -16,4 +16,4 @@ A four days seesion on machine learning organized by [Yandex Data School](https:
 
 ## Challenge
 
-book rating predictions based on reviews 
+Predicting flight delay.
