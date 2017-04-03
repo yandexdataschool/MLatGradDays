@@ -4,3 +4,6 @@ MAINTAINER Alex Rogozhnikov <axelr@yandex-team.ru>
 RUN sudo apt-get update
 RUN sudo apt-get install -y graphviz
 RUN /root/miniconda/envs/rep_py2/bin/pip install pydot-ng
+RUN /root/miniconda/envs/rep_py2/bin/pip install keras==1.2.0
+RUN /root/miniconda/envs/rep_py2/bin/pip install fastFM==0.2.9
+RUN conda install pytorch torchvision -c soumith
