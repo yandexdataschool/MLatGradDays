@@ -5,5 +5,7 @@ RUN sudo apt-get update
 RUN sudo apt-get install -y graphviz
 RUN /root/miniconda/envs/rep_py2/bin/pip install pydot-ng
 RUN /root/miniconda/envs/rep_py2/bin/pip install keras==1.2.0
+RUN /root/miniconda/envs/rep_py2/bin/pip install cython==0.25.2
 RUN /root/miniconda/envs/rep_py2/bin/pip install fastFM==0.2.9
-RUN conda install pytorch torchvision -c soumith
+RUN /root/miniconda/envs/rep_py2/bin/pip install http://download.pytorch.org/whl/cu75/torch-0.1.11.post5-cp27-none-linux_x86_64.whl
+RUN /root/miniconda/envs/rep_py2/bin/pip install torchvision
