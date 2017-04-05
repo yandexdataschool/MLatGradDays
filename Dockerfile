@@ -11,4 +11,3 @@ RUN /root/miniconda/envs/rep_py2/bin/pip install http://download.pytorch.org/whl
 RUN /root/miniconda/envs/rep_py2/bin/pip install torchvision
 RUN /root/miniconda/envs/rep_py2/bin/pip install astropy==1.3.2
 RUN /root/miniconda/envs/rep_py2/bin/pip install chainer==1.22.0
-RUN ulimit -v 1000000
