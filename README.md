@@ -18,4 +18,4 @@ Presented as ML session on [Grad Days at Heidelberg University in 2017](http://g
 
 ## Challenge
 
-[Predicting flight delays.](https://inclass.kaggle.com/c/late-arrival-of-flights)
+- [Predict flight delays!](https://inclass.kaggle.com/c/late-arrival-of-flights)
