@@ -6,7 +6,7 @@
 
 An ultimate four days session to dive into machine learning. Theory and practice packed together. 
 
-Presented as ML session on [Grad Days at Heidelberg University in 2017](http://gsfp.physi.uni-heidelberg.de/graddays/index.php?m=2&s=13), the course is given by [Yandex Data School](https://yandexdataschool.com/) at Heidelberg university. 
+Presented as ML session on [Grad Days at Heidelberg University in 2017](http://gsfp.physi.uni-heidelberg.de/graddays/index.php?m=2&s=13), the course is given by [Yandex Data School](https://yandexdataschool.com/). 
 
 
 ## Course focuses
